@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  17 MAR 2013 23:48
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.9.13)  19 MAR 2013 01:40
 entering extended mode
  %&-line parsing enabled.
 **rpz
@@ -714,8 +714,98 @@ Package: listings 2007/02/22 1.4 (Carsten Heinz)
 (/usr/share/texmf-texlive/tex/latex/tools/enumerate.sty
 Package: enumerate 1999/03/05 v3.00 enumerate extensions (DPC)
 \@enLab=\toks40
+) (./rpz.aux
+
+LaTeX Warning: Label `tabl:input3' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.53 \bibcite{\advance \par@deathcycles \@ne }{1}
+                                                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `\advance \par@deathcycles \@ne ' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.53 \bibcite{\advance \par@deathcycles \@ne }{1}
+                                                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \@@par 
+l.54 \bibcite{{\@@par }}{2}
+                           
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+
+LaTeX Warning: Label `{\@@par }' multiply defined.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \@@par 
+l.54 \bibcite{{\@@par }}{2}
+                           
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Missing { inserted.
+<argument> b@{\@@par }
+                      \@extra@binfo 
+l.54 \bibcite{{\@@par }}{2}
+                           
+Where was the left brace? You said something like `\def\a}',
+which I'm going to interpret as `\def\a{}'.
+
+! Extra \endcsname.
+\@namedef ...xpandafter \def \csname #1\endcsname 
+                                                  
+l.54 \bibcite{{\@@par }}{2}
+                           
+I'm ignoring this, since I wasn't doing a \csname.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \bibcite{{\@@par }}{2}
+                           
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+<recently read> \Hy@colorlink 
+                              
+l.54 \bibcite{{\@@par }}{2}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\close@pdflink ->\Hy@endcolorlink 
+                                  \pdfendlink 
+l.54 \bibcite{{\@@par }}{2}
+                           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 )
-No file rpz.aux.
 \openout1 = `rpz.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -737,7 +827,7 @@ LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 4.
 LaTeX Font Info:    ... okay on input line 4.
 LaTeX Font Info:    Try loading font information for T2A+ftm on input line 4.
-(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/t2aftm.fd
+ (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/t2aftm.fd
 File: t2aftm.fd 2012/02/13 Fontinst v1.933 font definitions for T2A/ftm.
 )
 (/usr/share/texmf-texlive/tex/latex/ucs/ucsencs.def
@@ -805,12 +895,13 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 LaTeX Info: Redefining \ref on input line 4.
 LaTeX Info: Redefining \pageref on input line 4.
+ (./rpz.out)
+(./rpz.out)
 \@outlinefile=\write4
 \openout4 = `rpz.out'.
 
 \AtBeginShipoutBox=\box43
-
-(/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count150
 \scratchdimen=\dimen178
@@ -824,6 +915,13 @@ LaTeX Info: Redefining \pageref on input line 4.
 \everyMPtoPDFconversion=\toks42
 ) ABD: EveryShipout initializing macros
 \c@lstlisting=\count155
+ [1
+
+
+
+\FN@pp@footnotehinttrue 
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <12> not available
 (Font)              Font shape `T2A/ftm/b/n' tried instead on input line 8.
 LaTeX Font Info:    Font shape `T2A/ftm/bx/n' in size <14.4> not available
@@ -836,78 +934,303 @@ Underfull \hbox (badness 2809) in paragraph at lines 10--14
 []\T2A/ftm/m/n/12 система вза^^?и^^?мо^^?дей^^?ству^^?
  []
 
-[1
+[2
 
+] [3
 
-
-\FN@pp@footnotehinttrue 
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-]
-
-LaTeX Warning: Reference `fig:rsoi' on page 3 undefined on input line 55.
-
-<inc/dia/rpz-rsoi.pdf, id=41, 544.0325pt x 401.5pt>
+] <inc/dia/rpz-rsoi.pdf, id=121, 544.0325pt x 401.5pt>
 File: inc/dia/rpz-rsoi.pdf Graphic file (type pdf)
- <use inc/dia/rpz-rsoi.pdf>
 
-LaTeX Warning: Reference `fig:participant' on page 3 undefined on input line 73
-.
-
-<inc/dia/rpz-participant.pdf, id=42, 1055.945pt x 483.8075pt>
+<use inc/dia/rpz-rsoi.pdf>
+<inc/dia/rpz-participant.pdf, id=123, 1055.945pt x 483.8075pt>
 File: inc/dia/rpz-participant.pdf Graphic file (type pdf)
 
-<use inc/dia/rpz-participant.pdf> [3
+<use inc/dia/rpz-participant.pdf> [4
 
  <./inc/dia/rpz-rsoi.pdf>]
-
-LaTeX Warning: Reference `fig:algorithm' on page 4 undefined on input line 105.
-
-
-<inc/dia/rpz-algorithm.pdf, id=52, 994.71625pt x 1198.4775pt>
+<inc/dia/rpz-algorithm.pdf, id=133, 994.71625pt x 1198.4775pt>
 File: inc/dia/rpz-algorithm.pdf Graphic file (type pdf)
 
-<use inc/dia/rpz-algorithm.pdf> [4 <./inc/dia/rpz-participant.pdf>] [5 <./inc/d
+<use inc/dia/rpz-algorithm.pdf> [5 <./inc/dia/rpz-participant.pdf>] [6 <./inc/d
 ia/rpz-algorithm.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 134--137
-[]\T2A/ftm/m/n/12 ПО "Под^^?си^^?сте^^?ма филь^^?тра^^?ции неже^^?ла^^?тель^^?н
-ых за^^?явок участ^^?ни^^?ка
+
+LaTeX Warning: Reference `tabl:input1' on page 7 undefined on input line 168.
+
+<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
+LaTeX Font Info:    Try loading font information for U+msa on input line 180.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 180.
+
+(/usr/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 180.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omlcmr.fd
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <8> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <6> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 180.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 180.
+
+
+(/usr/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <6> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 180.
+LaTeX Font Info:    Try loading font information for PD1+cmr on input line 180.
+
+LaTeX Font Info:    No file PD1cmr.fd. on input line 180.
+
+
+LaTeX Font Warning: Font shape `PD1/cmr/m/n' undefined
+(Font)              using `PD1/pdf/m/n' instead on input line 180.
+
+LaTeX Font Info:    Try loading font information for PU+cmr on input line 180.
+LaTeX Font Info:    No file PUcmr.fd. on input line 180.
+
+LaTeX Font Warning: Font shape `PU/cmr/m/n' undefined
+(Font)              using `PU/pdf/m/n' instead on input line 180.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+[]\T2A/ftm/b/n/12 Допустимые
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 161--162
-[]\T2A/ftm/m/n/12 Подсистема филь^^?тра^^?ции за^^?явок долж^^?на обеч^^?пе^^?ч
-ить вы^^?пол^^?не^^?ние сле^^?ду^^?ю^^?щих
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+\T2A/ftm/m/n/12 ResourceCount,
  []
 
-[6] [7] (./rpz.aux
+
+Overfull \hbox (6.80054pt too wide) in paragraph at lines 188--188
+\T2A/ftm/m/n/12 ResourceLostCount,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+[]\T2A/ftm/m/n/12 Запрашиваемое ко^^?ли^^?че^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]\T2A/ftm/m/n/12 Оставшееся ко^^?ли^^?че^^?ство
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 196--197
+[]\T2A/ftm/m/n/12 1 - за^^?каз за^^?вер^^?
+ []
+
+
+Overfull \hbox (47.99997pt too wide) in paragraph at lines 180--200
+ [] 
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 229--230
+[]\T2A/ftm/b/n/12 Допустимые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--231
+[]\T2A/ftm/m/n/12 Идентификаторы за^^?пра^^?ши^^?ва^^?е^^?мых
+ []
+
+
+Overfull \hbox (35.99304pt too wide) in paragraph at lines 227--241
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
+[]\T2A/ftm/b/n/12 Допустимые
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--255
+[]\T2A/ftm/m/n/12 Количество за^^?пра^^?ши^^?ва^^?е^^?
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
+[]\T2A/ftm/m/n/12 Оставшееся ко^^?ли^^?че^^?ство
+ []
+
+
+Overfull \hbox (47.99997pt too wide) in paragraph at lines 247--267
+ [] 
+ []
+
+[8] [9]
+! Argument of Р has an extra }.
+<inserted text> 
+                \par 
+l.320         \bibitem Р
+                        “РћРЎРў 19.201-78. Р•РЎРџР”. РўРµС…РЅРёС‡РµСЃРєРѕРµ ...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before Р was complete.
+<to be read again> 
+                   \par 
+l.320         \bibitem Р
+                        “РћРЎРў 19.201-78. Р•РЎРџР”. РўРµС…РЅРёС‡РµСЃРєРѕРµ ...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! Package utf8x Error: Character147appearedalone.
+
+See the utf8x package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.320         \bibitem Р“
+                         РћРЎРў 19.201-78. Р•РЎРџР”. РўРµС…РЅРёС‡РµСЃРєРѕРµ ...
+
+Characters128-191areonlyallowedasargumentstocharacters194-244
+
+! Argument of Р has an extra }.
+<inserted text> 
+                \par 
+l.321         \bibitem Р
+                        ’РёС€РЅРµРІСЃРєР°СЏ Рў.Р., Р РѕРјР°РЅРѕРІР° Рў.Рќ. ...
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before Р was complete.
+<to be read again> 
+                   \par 
+l.321         \bibitem Р
+                        ’РёС€РЅРµРІСЃРєР°СЏ Рў.Р., Р РѕРјР°РЅРѕРІР° Рў.Рќ. ...
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+! Package utf8x Error: Character146appearedalone.
+
+See the utf8x package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.321         \bibitem Р’
+                         РёС€РЅРµРІСЃРєР°СЏ Рў.Р., Р РѕРјР°РЅРѕРІР° Рў.Рќ. ...
+
+Characters128-191areonlyallowedasargumentstocharacters194-244
+
+(/usr/share/texmf-texlive/tex/latex/ucs/data/uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+) [10pdfTeX warning (ext4): destination with the same identifier (name{cite.\\b
+egingroup\040\\let\040\\relax\040\\relax\040\\endgroup\040[Pl\ETC.}) has been a
+lready used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.324 \end{document}
+                    ] (./rpz.aux
 LaTeX Font Info:    Try loading font information for OT1+ftm on input line 17.
- (/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
+
+(/usr/share/texmf/tex/latex/scalable-cyrfonts-tex/ot1ftm.fd
 File: ot1ftm.fd 2012/02/13 Fontinst v1.933 font definitions for OT1/ftm.
-)<<ot1.cmap>>)
+)
+! Missing \endcsname inserted.
+<to be read again> 
+                   \advance 
+l.53 \bibcite{\advance \par@deathcycles \@ne }{1}
+                                                 
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.53 \bibcite{\advance \par@deathcycles \@ne }{1}
+                                                 
+I'm ignoring this, since I wasn't doing a \csname.
+
+! Missing \endcsname inserted.
+<to be read again> 
+                   \@@par 
+l.54 \bibcite{{\@@par }}{2}
+                           
+The control sequence marked <to be read again> should
+not appear between \csname and \endcsname.
+
+! Extra }, or forgotten \endgroup.
+<argument> {\@@par }
+                    \@extra@binfo 
+l.54 \bibcite{{\@@par }}{2}
+                           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Extra \endcsname.
+\@newl@bel ... \bbl@tempa \csname #1@#2\endcsname 
+                                                  \def \bbl@tempb {#3}\@safe...
+l.54 \bibcite{{\@@par }}{2}
+                           
+I'm ignoring this, since I wasn't doing a \csname.
+
+)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 19731 strings out of 493848
- 327627 string characters out of 1152823
- 398343 words of memory out of 3000000
- 22556 multiletter control sequences out of 15000+50000
- 10709 words of font info for 25 fonts, out of 3000000 for 9000
+ 20155 strings out of 493848
+ 332863 string characters out of 1152823
+ 412340 words of memory out of 3000000
+ 22888 multiletter control sequences out of 15000+50000
+ 17562 words of font info for 47 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 60i,7n,75p,768b,675s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}</usr/share/te
-xmf/fonts/type1/public/scalable-cyrfonts-tex/ftmb6w.pfb></usr/share/texmf/fonts
-/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb>
-Output written on rpz.pdf (7 pages, 163394 bytes).
+ 60i,12n,75p,778b,675s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{cite.{\\@@par\040}} has been referenced but does 
+not exist, replaced by a fixed one
+
+{/usr/share/texmf/fonts/enc/dvips/scalable-cyrfonts-tex/6r.enc}{/usr/share/texm
+f/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/share/texmf-texlive/fonts/typ
+e1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-texlive/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/f
+tmb6w.pfb></usr/share/texmf/fonts/type1/public/scalable-cyrfonts-tex/ftmr6w.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on rpz.pdf (10 pages, 209849 bytes).
 PDF statistics:
- 133 PDF objects out of 1000 (max. 8388607)
- 54 named destinations out of 1000 (max. 500000)
- 132 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 251 PDF objects out of 1000 (max. 8388607)
+ 80 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
 
